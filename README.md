@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PMN1012&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="PMN1012"></p>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/this is my linkedin username.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this is my linkedin username.com" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/this is my leetcode username.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="this is my leetcode username.com" height="30" width="40" /></a>
+</p>
